@@ -7,7 +7,7 @@ export default function Page() {
     <CountButton name={"Add One"} mult={1} size={0.5}/>
     <CountButton name={"Add Three"} mult={3} size={2}/>
     <hr/>
-    <p style={{textAlign:"center", fontSize:"1.2rem"}}><a href="https://github.com/coopersenior/NextJS">My GitHub Repo</a></p>
+    <p style={{textAlign:"center", fontSize:"1.2rem"}}><a href="https://github.com/coopersenior/next.js">My GitHub Repo</a></p>
     <hr/>
     <SearchBar/>
   </div>
